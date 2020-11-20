@@ -22,6 +22,7 @@ public class EJ1POO {
         System.out.println("Primer cambio rama master");
         System.out.println("Segundo cambio rama master"); 
         System.out.println("Primer cambio sobre la ram jg");
+        System.out.println("Cambio en la rama 2");
     }   
     
        
