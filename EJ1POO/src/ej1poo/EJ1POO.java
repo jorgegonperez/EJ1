@@ -20,7 +20,8 @@ public class EJ1POO {
     libreria1.ventasLibros();
     libreria1.informe();
         System.out.println("Primer cambio rama master");
-        System.out.println("Segundo cambio rama master");    
+        System.out.println("Segundo cambio rama master"); 
+        System.out.println("Primer cambio sobre la ram jg");
     }   
     
        
